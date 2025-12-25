@@ -17,6 +17,7 @@ For example, the simplified example document linked above draws out the letter '
 █▀▀▀
 █▀▀ 
 █   
+
 Note that the coordinates (0, 0) will always correspond to the same corner of the grid as in this example, so make sure to understand in which directions the x- and y-coordinates increase.
 
 Specifications
